@@ -1,0 +1,144 @@
+XM_023317917.1
+XM_023317917
+PREDICTED: Drosophila hydei pyruvate kinase (LOC111601379), mRNA
+TTTCAATACTTAAAAAAAAC
+XM_023310563.1
+XM_023310563
+PREDICTED: Drosophila hydei enolase (LOC111596366), mRNA
+TTATTTTTGATATATTCAAT
+NT_033777.3
+NT_033777
+Drosophila melanogaster chromosome 3R
+NNNNNNNNNNNNNNNNNNNN
+NT_033778.4
+NT_033778
+Drosophila melanogaster chromosome 2R
+NNNNNNNNNNNNNNNNNNNN
+NT_033779.5
+NT_033779
+Drosophila melanogaster chromosome 2L
+NNNNNNNNNNNNNNNNNNNN
+NC_004354.4
+NC_004354
+Drosophila melanogaster chromosome X
+NNNNNNNNNNNNNNNNNNNN
+NT_033779.5
+NT_033779
+Drosophila melanogaster chromosome 2L
+NNNNNNNNNNNNNNNNNNNN
+LC058675.1
+LC058675
+Drosophila nasuta Idh gene for isocitrate dehydrogenase, partial cds, strain: G7
+CTCATTCTGCCATTCCTCGA
+AY364534.1
+AY364534
+Drosophila mojavensis strain MJS 71 glucose-6-phosphate dehydrogenase (G6pd) gene, exon 4 and partial cds
+GGCTGGAATCGCGTGATCGT
+XM_023305862.1
+XM_023305862
+PREDICTED: Drosophila hydei ribose-5-phosphate isomerase (LOC111593212), mRNA
+TTTCAAATAGATGTCAAATT
+NT_033777.3
+NT_033777
+Drosophila melanogaster chromosome 3R
+NNNNNNNNNNNNNNNNNNNN
+XM_002005838.2
+XM_002005838
+Drosophila mojavensis uncharacterized protein (Dmoj\GI18849), mRNA
+GTCCAGACTAAAGATTTAGT
+NZ_CP009050.1
+NZ_CP009050
+Escherichia coli NCCP15648, complete genome
+NNNNNNNNNNNNNNNNNNNN
+NZ_CP009050.1
+NZ_CP009050
+Escherichia coli NCCP15648, complete genome
+NNNNNNNNNNNNNNNNNNNN
+PDAC01000032.1
+PDAC01000032
+Escherichia coli strain TVS 353 NODE_32_length_28275_cov_33.7839, whole genome shotgun sequence
+AGAAAGGCAGTCCGCTGCAT
+CP026473.1
+CP026473
+Escherichia coli strain KBN10P04869 chromosome, complete genome
+CCAGCATGGCGCGCCGGGTG
+NZ_CP009050.1
+NZ_CP009050
+Escherichia coli NCCP15648, complete genome
+NNNNNNNNNNNNNNNNNNNN
+NZ_PDAP01000234.1
+NZ_PDAP01000234
+Escherichia coli strain 2016C-3325 NODE_234_length_464_cov_0.697329_ID_21090, whole genome shotgun sequence
+NNNNNNNNNNNNNNNNNNNN
+QREF01000006.1
+QREF01000006
+Escherichia coli strain 333 Ga0213564_106, whole genome shotgun sequence
+CTTGAGACTTGGTATTCATT
+NZ_NDCE01000057.1
+NZ_NDCE01000057
+Escherichia coli strain 39913 39913_NODE_70.ctg_1, whole genome shotgun sequence
+NNNNNNNNNNNNNNNNNNNN
+NZ_CP009050.1
+NZ_CP009050
+Escherichia coli NCCP15648, complete genome
+NNNNNNNNNNNNNNNNNNNN
+NZ_CP009050.1
+NZ_CP009050
+Escherichia coli NCCP15648, complete genome
+NNNNNNNNNNNNNNNNNNNN
+NZ_CP009050.1
+NZ_CP009050
+Escherichia coli NCCP15648, complete genome
+NNNNNNNNNNNNNNNNNNNN
+NZ_CP009050.1
+NZ_CP009050
+Escherichia coli NCCP15648, complete genome
+NNNNNNNNNNNNNNNNNNNN
+FUIG01000043.1
+FUIG01000043
+Homo sapiens genome assembly, contig: BQ8482_Contig_35, whole genome shotgun sequence
+AATTACGCGATCATGACACT
+FUIG01000070.1
+FUIG01000070
+Homo sapiens genome assembly, contig: BQ8482_Contig_6, whole genome shotgun sequence
+GAACTTGACGCACACAACTA
+FUIG01000013.1
+FUIG01000013
+Homo sapiens genome assembly, contig: BQ8482_Contig_11, whole genome shotgun sequence
+GGCCGAGAAGGCGCTGACCG
+AH002936.2
+SEG_HUMPFKTA
+Homo sapiens phosphofructokinase (PFKM) gene, partial cds
+AGTGGTTCGCACACAGTGGC
+NM_006623.3
+NM_006623
+Homo sapiens phosphoglycerate dehydrogenase (PHGDH), mRNA
+GCAGGGATTTGGCAACCTCA
+FUIG01000002.1
+FUIG01000002
+Homo sapiens genome assembly, contig: BQ8482_Contig_10, whole genome shotgun sequence
+CAGAACTTGACGCACACAAC
+AH007467.3
+AH007467
+Homo sapiens chromosome 22 aconitase (ACO2) gene, complete cds
+GATGGCGGAGATAACTAAAA
+KU639670.1
+KU639670
+Homo sapiens voucher NGX277 isocitrate dehydrogenase (IDH2) gene, partial cds
+TCCCAATGGAACTATCCGGA
+FUIG01000013.1
+FUIG01000013
+Homo sapiens genome assembly, contig: BQ8482_Contig_11, whole genome shotgun sequence
+GGCCGAGAAGGCGCTGACCG
+NM_144563.2
+NM_144563
+Homo sapiens ribose 5-phosphate isomerase A (RPIA), mRNA
+CGGGGGCGGGACTTCAGCGG
+BC009970.2
+BC009970
+Homo sapiens transketolase, mRNA (cDNA clone MGC:15349 IMAGE:4310396), complete cds
+GCCTGTCGCCGCGGGAGCAG
+NM_006755.1
+NM_006755
+Homo sapiens transaldolase 1 (TALDO1), mRNA
+CGCGCCCGTCCCGTCGCCGC
